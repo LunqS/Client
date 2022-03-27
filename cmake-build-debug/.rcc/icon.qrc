@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file alias="icons/user.svg">C:/Codefield/CODE_C/Qt/client/icons/user.svg</file>
+  </qresource>
+</RCC>
+

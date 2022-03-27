@@ -1,0 +1,10 @@
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/client.dir
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/client_other_files.dir
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/install.dir
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/client_autogen_timestamp_deps.dir
+C:/Codefield/CODE_C/Qt/client/cmake-build-debug/CMakeFiles/client_autogen.dir

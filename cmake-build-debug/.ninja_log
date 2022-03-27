@@ -1,0 +1,26 @@
+# ninja log v5
+18419	18939	6695549246547885	CMakeFiles/client.dir/cmake-build-debug/.rcc/qrc_icon.cpp.obj	2122487c9cdd8f34
+18195	18681	6695549244097702	CMakeFiles/client.dir/basicClass.cpp.obj	516cd4ac900d0c7a
+45	5057	6695561421929811	client_autogen/timestamp	cb8d3a18b4ed9e4c
+45	5057	6695561421929811	client_autogen/mocs_compilation.cpp	cb8d3a18b4ed9e4c
+18071	18175	6695549239317337	C:/Codefield/CODE_C/Qt/client/cmake-build-debug/.rcc/qrc_icon.cpp	151d2e115cb6df38
+45	5057	6695561421929811	C:/Codefield/CODE_C/Qt/client/cmake-build-debug/client_autogen/timestamp	cb8d3a18b4ed9e4c
+45	5057	6695561421929811	C:/Codefield/CODE_C/Qt/client/cmake-build-debug/client_autogen/mocs_compilation.cpp	cb8d3a18b4ed9e4c
+18071	18175	6695549239317337	.rcc/qrc_icon.cpp	151d2e115cb6df38
+18239	24846	6695549305642300	CMakeFiles/client.dir/clock.cpp.obj	b66df965421a6611
+18216	27189	6695549328974016	CMakeFiles/client.dir/customScrollContainer.cpp.obj	d59a9533b3de7cad
+18314	45027	6695549507212495	CMakeFiles/client.dir/main.cpp.obj	5e1d158b7ba2f0e7
+18289	45366	6695549511132807	CMakeFiles/client.dir/loginpage.cpp.obj	74a0191e344025f4
+5373	28188	6695561653148966	CMakeFiles/client.dir/mainwindow.cpp.obj	ea72d1a53b63af15
+18342	45938	6695549516883200	CMakeFiles/client.dir/mainpage.cpp.obj	93cd456811756d93
+18265	46352	6695549520973502	CMakeFiles/client.dir/customWidgets.cpp.obj	d852e108a2c83b11
+18685	45989	6695549517363223	CMakeFiles/client.dir/slidepage.cpp.obj	6e7309ec96d2a4d1
+18176	47605	6695549533384423	CMakeFiles/client.dir/client_autogen/mocs_compilation.cpp.obj	7d065ce3d313a92f
+28207	30345	6695561674598337	client.exe	586027ae73eb2ec7
+47	3341	6695565873208147	build.ninja	74509aab8d7bffb0
+22	3721	6695565911642656	client_autogen/timestamp	cb8d3a18b4ed9e4c
+22	3721	6695565911642656	client_autogen/mocs_compilation.cpp	cb8d3a18b4ed9e4c
+22	3721	6695565911642656	C:/Codefield/CODE_C/Qt/client/cmake-build-debug/client_autogen/timestamp	cb8d3a18b4ed9e4c
+22	3721	6695565911642656	C:/Codefield/CODE_C/Qt/client/cmake-build-debug/client_autogen/mocs_compilation.cpp	cb8d3a18b4ed9e4c
+3983	21366	6695566088064944	CMakeFiles/client.dir/mainwindow.cpp.obj	ea72d1a53b63af15
+21373	22762	6695566101934233	client.exe	586027ae73eb2ec7

@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1cd231970a8bc214cd54.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "client",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client-Debug-5afccb794891fae1d881.json",
+					"name" : "client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_autogen-Debug-cf480b1fa70ffd7b7bc9.json",
+					"name" : "client_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_autogen_timestamp_deps-Debug-e5c0e8dec3bdad6d12fe.json",
+					"name" : "client_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_other_files-Debug-d034c6ec3af865f97c9e.json",
+					"name" : "client_other_files",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Codefield/CODE_C/Qt/client/cmake-build-debug",
+		"source" : "C:/Codefield/CODE_C/Qt/client"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
